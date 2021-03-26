@@ -1,0 +1,2 @@
+https://medium.com/faun/jenkins-ci-cd-to-deploy-an-asp-net-core-application-6145b5308bff
+https://dzone.com/articles/continuous-integration-ci-for-net-core-projects-ne

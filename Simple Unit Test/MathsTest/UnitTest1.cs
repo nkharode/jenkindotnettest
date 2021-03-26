@@ -29,7 +29,7 @@ public class TestMathsClass
         int result = maths.Sub();
 
         //Assert
-        Assert.AreEqual<int>(12, result);
+        Assert.AreEqual<int>(1, result);
     }
 }
 }
