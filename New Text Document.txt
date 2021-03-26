@@ -1,2 +1,7 @@
 https://medium.com/faun/jenkins-ci-cd-to-deploy-an-asp-net-core-application-6145b5308bff
 https://dzone.com/articles/continuous-integration-ci-for-net-core-projects-ne
+
+
+C:\Users\Admin\.jenkins\workspace\donetprojectpipeline>dotnet test  C:\Users\Admin\.jenkins\workspace\donetprojectpipeline\Simple Unit Test\MathsTest\MathsTest.csproj 
+MSBUILD : error MSB1008: Only one project can be specified.
+Switch: Unit
